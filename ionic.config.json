@@ -1,0 +1,7 @@
+{
+  "name": "streaming",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
