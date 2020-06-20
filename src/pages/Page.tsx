@@ -11,7 +11,6 @@ import React from "react";
 import { useParams } from "react-router";
 
 import "./Page.css";
-import Videos from "../components/Videos";
 
 const Page: React.FC = () => {
 	const { name } = useParams<{ name: string }>();
